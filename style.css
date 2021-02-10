@@ -33,6 +33,6 @@ figcaption {
 
 #details div {
   float: left;
-  margin: auto;
+  text-align: center;
   background-color: blue;
 }
